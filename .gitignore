@@ -1,0 +1,30 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Local database export containing customer records
+database_file.sql
+# Local dummy Excel data files
+data_smaple.xlsx
+sample_data.xlsx
