@@ -86,7 +86,7 @@ Customer_Management_Project/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Amruta-Matali/-Customer360-CMS
 cd Customer_Management_Project
 ```
 
